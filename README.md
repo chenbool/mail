@@ -8,8 +8,8 @@ php发送邮件sdk
 ---|---|---
 smtp_host | smtp服务器地址 | string
 smtp_port | smtp服务器端口 | int
-smtp_user | 账号 | string
-smtp_pass | 密码 | string
+smtp_user | 发送账号 | string
+smtp_pass | 发送密码 | string
 smtp_pass | 是否支持html | bool
 
 # 使用案例
