@@ -30,7 +30,6 @@ $mail->send('bool1993@qq.com','subject123',' <h1>33</h1> <a href="http://www.bai
 ```
 
 # 支持邮箱
----
 
 ```
 网易
