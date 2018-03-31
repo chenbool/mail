@@ -14,7 +14,7 @@ smtp_pass | 是否支持html | bool
 
 ## 使用案例
 
-[使用文档](https://github.com/chenbool/mail/wiki/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1)
+## [使用文档](https://github.com/chenbool/mail/wiki/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1)
 
 
 ```
