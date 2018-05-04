@@ -18,6 +18,8 @@ smtp_pass | 是否支持html | bool
 
 
 ```
+include 'mail.php';
+
 // 网易
 $config = [
  	'smtp_host'	=>	'smtp.163.com',
